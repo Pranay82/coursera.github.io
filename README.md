@@ -1,1 +1,1 @@
-# coursera.github.io
+# http://coursera.github.io
